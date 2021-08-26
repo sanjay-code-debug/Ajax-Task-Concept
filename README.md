@@ -21,6 +21,7 @@ img -2
 
 img -3
 ------
-https://github.com/Sanjay-coder-debug/Ajax-Task-Concept/issues/2#issuecomment-906146997
+![tffd](https://user-images.githubusercontent.com/78407424/130916230-8de35651-e6fe-4352-9d08-d9a017473d59.png)
+
 
 
